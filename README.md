@@ -1,4 +1,4 @@
-# New Tab
+# newtab
 
 An ultra-minimalist extension for changing Brave's solid color background when opening a new tab.
 
