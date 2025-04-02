@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+    "name": "Blank New Tab",
+    "version": "1.0",
+    "description": "Overrides the new tab page with a blank solid color.",
+    "chrome_url_overrides": {
+      "newtab": "newtab.html"
+    },
+    "permissions": ["chrome_url_overrides"]
+  }
+  
